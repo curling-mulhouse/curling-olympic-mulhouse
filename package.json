@@ -2,8 +2,8 @@
   "name": "curling-olympic-mulhouse",
   "version": "1.0.0",
   "private": true,
-  "description": "curling-olympic-mulhouse",
-  "author": "Olivier Scherrer",
+  "description": "site officiel du club de curling de Mulhouse, France",
+  "author": "Curling Olympic Mulhouse & Meranti.fr",
   "keywords": [
     "gatsby"
   ],
