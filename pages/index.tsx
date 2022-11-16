@@ -9,11 +9,16 @@ export default function Home() {
       </Head>
 
       <main>
-        Curling Olympic Mulhouse. <br />
-        Club de Curling à Mulhouse. <br />
-        Entrainements les lundi soirs de 20h30 à 22h30 à la patinoire de
-        l'Iceberg, 47 Bd Charles Stoessel, 68200 Mulhouse. <br />
-        Venez essayer gratuitement!
+        <h1>Curling Olympic Mulhouse</h1>
+        <p>
+          Club de Curling à Mulhouse. <br />
+          <b>Entrainements les lundi soirs de 20h30 à 22h30 à la patinoire de
+          l'Iceberg, 47 Bd Charles Stoessel, 68200 Mulhouse.</b><br />
+          Venez essayer gratuitement!
+        </p>
+
+
+        <b>Site à venir très prochainement</b>
       </main>
     </div>
   );
